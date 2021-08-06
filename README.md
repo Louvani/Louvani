@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/paula louvani hernández morales" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula louvani hernández morales" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paula-louvani-hern%C3%A1ndez-morales-746b8380/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula louvani hernández morales" height="30" width="40" /></a>
 <a href="https://www.instagram.com/nana_louvani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@nana_louvani" height="30" width="40" /></a>
 <a href="https://medium.com/@louvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@louvani" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/louvani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="louvani" height="30" width="40" /></a>
