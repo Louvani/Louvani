@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louvani</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🔭 I’m currently working on **Holberton School proyects**
+- 🔭 I’m currently working on **Holberton School projects**
 
-- 🌱 I’m currently learning **C, Python, JavaScript, Algorithms and Data Structures.**
+- 🌱 I’m currently learning about blockchain and smart contracts on Solidity.
 
 - 📝 I regularly write articles on [https://louvani.medium.com/](https://louvani.medium.com/)
 
