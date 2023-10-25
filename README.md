@@ -6,11 +6,11 @@
 <!-- ## ✨ Current situation -->
 
 
-- I’m currently learning about blockchain and smart contracts on Solidity.
+- I’m currently working at Ecoregistry building amazing things and never stop learning.
 
-- Some times I write articles on [medium](https://louvani.medium.com/)
+- Sometimes I write articles on [medium](https://louvani.medium.com/)
 
-- Hobbies: I like to do cycloturing, photography, puzzles and muay thay
+- Hobbies: I like to do cycloturing, photography, puzzles, and muay Thai
 
 - My site: <a href="https://www.louvani.com/" target="_blank">www.louvani.com</a>
 - 📫 How to reach me **paula.louvani@gmail.com**
