@@ -18,7 +18,7 @@
 ## Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=blue" />
   <img src="https://img.shields.io/badge/NodeJs-323330?style=for-the-badge&logo=node&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-323330?style=for-the-badge&logo=c&logoColor=white" />
@@ -27,7 +27,7 @@
 ## 💻 Framework and Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/NestJs-5E5C5C?style=for-the-badge&logo=nestjs&logoColor=red" />
-  <img src="https://img.shields.io/badge/Express-5E5C5C?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-5E5C5C?style=for-the-badge&logo=express&logoColor=green" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
