@@ -1,5 +1,4 @@
 <img src="./Louvani's-banner.png" />
-<!-- <img src="https://raw.githubusercontent.com/kasuken/kasuken/master/BannerGitHub.png" alt="Emanuele Bartolesi - software engineer, content creator and community organizer"> -->
 <h1 align="center">Hi, I'm Louvani</h1>
 <h3 align="center"> ✨ Passionate about learning, I enjoy it just as I enjoyed traveling on the bike. ✨ </h3>
 
@@ -10,7 +9,7 @@
 
 - Sometimes I write articles on [medium](https://louvani.medium.com/)
 
-- Hobbies: I like to do cycloturing, photography, puzzles, and muay Thai
+- Hobbies: I like to do cycle touring, photography, puzzles, and Muay Thai
 
 - My site: <a href="https://www.louvani.com/" target="_blank">www.louvani.com</a>
 
@@ -69,7 +68,7 @@
 
 [<img alt="Louvani" src="https://img.shields.io/badge/My_Site-%234ea94b.svg?&style=for-the-badge&logoColor=white" />](https://www.louvani.com/)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/louvani)
-[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PaulaLouvani)
+[<img alt="Instagram" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/paula_louvani/)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/louvani/)
 
 
