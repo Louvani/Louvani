@@ -13,7 +13,6 @@
 - Hobbies: I like to do cycloturing, photography, puzzles, and muay Thai
 
 - My site: <a href="https://www.louvani.com/" target="_blank">www.louvani.com</a>
-- 📫 How to reach me **paula.louvani@gmail.com**
 
 ## Programming Languages
 <p align="left">
@@ -71,6 +70,6 @@
 [<img alt="Louvani" src="https://img.shields.io/badge/My_Site-%234ea94b.svg?&style=for-the-badge&logoColor=white" />](https://www.louvani.com/)
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/louvani)
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/PaulaLouvani)
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/paula-louvani/)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/louvani/)
 
 
