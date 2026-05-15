@@ -2,16 +2,6 @@
 <h1 align="center">Hi, I'm Louvani</h1>
 <h3 align="center"> ✨ Passionate about learning, I enjoy it just as I enjoyed traveling on the bike. ✨ </h3>
 
-<!-- ## ✨ Current situation -->
-
-
-- I’m currently working at Ecoregistry building amazing things and never stop learning.
-
-- Sometimes I write articles on [medium](https://louvani.medium.com/)
-
-- Hobbies: I like to do cycle touring, photography, puzzles, and Muay Thai
-
-- My site: <a href="https://www.louvani.com/" target="_blank">www.louvani.com</a>
 
 ## Programming Languages
 <p align="left">
